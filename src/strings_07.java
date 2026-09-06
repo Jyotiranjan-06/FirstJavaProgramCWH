@@ -15,7 +15,5 @@ public class strings_07 {
         Scanner sc = new Scanner(System.in);
         String st = sc.nextLine();
         System.out.println(st);
-
-
     }
 }
